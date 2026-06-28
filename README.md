@@ -1,5 +1,5 @@
 # Pipeline de Ventas — RetailMx
-![Dashboard Preview](dash12.png)
+![Dashboard Preview](dash13.png)
 Pipeline ETL end-to-end construido en Microsoft Azure para el procesamiento y análisis de datos de ventas de una cadena minorista ficticia con 5 sucursales.
 
 ## Objetivo
@@ -20,7 +20,7 @@ Demostrar habilidades en ingeniería y análisis de datos usando servicios de Mi
 
 - 5,050 registros de ventas simuladas
 - 6 meses de datos (enero a junio 2024)
-- 5 sucursales: CDMX, Monterrey, Guadalajara, Puebla, Cancún
+- 5 sucursales: Lima, Arequipa, Trujillo, Cusco Y Piura
 - 5 productos: Laptop, Celular, Tablet, Audífonos, Cargador
 - Dataset intencionalmente imperfecto: valores nulos, duplicados y registros inválidos
 
