@@ -1,4 +1,4 @@
-# Pipeline de Ventas — RetailMx
+# Pipeline de Ventas — Retail (Perú)
 ![Dashboard Preview](dash13.png)
 Pipeline ETL end-to-end construido en Microsoft Azure para el procesamiento y análisis de datos de ventas de una cadena minorista ficticia con 5 sucursales.
 
