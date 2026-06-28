@@ -40,6 +40,6 @@ Demostrar habilidades en ingeniería y análisis de datos usando servicios de Mi
 
 ## Resultados principales
 
-- Guadalajara fue la sucursal con mayor volumen de ventas
-- Celular fue el producto más vendido con más de 9,000 unidades
+- Lima fue la sucursal con mayor volumen de ventas
+- Cargador fue el producto más vendido con más de 9,000 unidades
 - Se identificaron registros con valores nulos y cantidades inválidas como parte del análisis de calidad de datos
